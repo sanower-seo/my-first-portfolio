@@ -59,7 +59,7 @@ div#old {
 }
 div#baby{
 	border-left: 7px solid;
-	border-image: linear-gradient(180deg, #fffd00, #a53974);
+	border-image: linear-gradient(180deg, #00f3ff, #4a39a5);
     border-image-slice: 1;
 }
 
